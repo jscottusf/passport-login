@@ -45,6 +45,7 @@ a {
   color: azure;
 }
 
-#login {
+#login,
+.alert {
   width: 400px;
 }
