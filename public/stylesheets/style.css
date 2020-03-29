@@ -36,6 +36,15 @@ a {
   color: #00b7ff;
 }
 
-.container {
+.register-container {
   padding: 50px;
+}
+
+.login-container {
+  padding: 50px;
+  color: azure;
+}
+
+#login {
+  width: 400px;
 }
